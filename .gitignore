@@ -1,0 +1,6 @@
+*.tfvars
+.idea/
+.code
+.vscode
+*.tfstate
+.terraform/
